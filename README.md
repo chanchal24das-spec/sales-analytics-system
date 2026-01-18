@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/python-3.7+-blue.svg)
+![Status](https://img.shields.io/badge/status-active-success.svg)
+![Contributions](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
+
 # Sales Analytics System
 
 A comprehensive data cleaning, processing, and analytics system for sales data with API integration and automated reporting.
@@ -349,6 +353,7 @@ This project demonstrates:
 - ✅ Professional documentation
 
 ---
+
 
 
 
